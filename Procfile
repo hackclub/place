@@ -1,1 +1,1 @@
-web: bin/place -root web/root -port $PORT
+web: bin/place -root web/root -port :$PORT
