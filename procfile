@@ -1,0 +1,2 @@
+web: go build cmd/place/place.go
+web: place -root web/root -port $PORT
