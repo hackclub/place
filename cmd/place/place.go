@@ -13,7 +13,7 @@ import (
 	"time"
 
 	"github.com/rbxb/httpfilter"
-	"github.com/rbxb/place"
+	"github.com/hackclub/place"
 )
 
 var port string
